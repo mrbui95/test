@@ -24,6 +24,7 @@ public class ComplexNumber {
 		this.real = real;
 	}
 	
+	
 	public ComplexNumber getReverseComplexNumber(){
 		return new ComplexNumber(real , - imaginairy);
 	}
