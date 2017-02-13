@@ -20,7 +20,6 @@ public class ComplexNumber {
 		this.imaginairy = imaginairy;
 	}
 
-	
 	public void setReal(double real) {
 		this.real = real;
 	}
